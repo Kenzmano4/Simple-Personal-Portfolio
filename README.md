@@ -18,7 +18,7 @@ The home page features:
 * Two call-to-action buttons:
     * Hire Me
     * Experience
-![Website Home Page](<Home Page.JPG>)
+![Website About Me](<Home Page.JPG>)
 
 ## About Me Page
 This section provides:
